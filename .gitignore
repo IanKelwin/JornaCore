@@ -30,6 +30,6 @@ builderNumber.properties
 
 # ==========================
 # Linux / Text Editor
-#
+# ==========================
 *.swp
 *.bak
