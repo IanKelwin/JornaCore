@@ -1,0 +1,35 @@
+# ========================
+# Compiled Java Artifacts
+# # ======================
+#
+
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# =========================
+# Maven specifications
+# =========================
+
+target/
+pom.xml.log
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+realease.proprietes
+dependency-redunced-pom.xml
+builderNumber.properties
+.mvn/timing.properties
+
+# ==========================
+# Linux / Text Editor
+#
+*.swp
+*.bak
