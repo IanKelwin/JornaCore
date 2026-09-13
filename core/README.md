@@ -12,9 +12,9 @@ dos dados puros que sofreram alterações pelos casos de usos.
 
 ## Directory Use Cases
 
-As ações do sistema que operam sobre os Domains, como calculos e regras que ditam
+As ações do sistema que operam sobre os Domains, como cálculos e regras que ditam
 o funcionamento do negócio tal como o que é preciso fazer para criar uma diária e
-suas consequências.
+suas consequencias.
 
 ## Directory Interface Adapters
 
