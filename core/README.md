@@ -14,7 +14,7 @@ dos dados puros que sofreram alterações pelos casos de usos.
 
 As ações do sistema que operam sobre os Domains, como cálculos e regras que ditam
 o funcionamento do negócio tal como o que é preciso fazer para criar uma diária e
-suas consequencias.
+suas consequências.
 
 ## Directory Interface Adapters
 
